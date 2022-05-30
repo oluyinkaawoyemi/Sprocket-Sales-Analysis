@@ -1,6 +1,6 @@
 # 🚴: Case Study #1 - Sprocket-Sales-Analysis <!-- omit in toc -->
 
-<img src="https://github.com/DanielBayo/AdventureWork_SQL_Analysis/blob/main/Adventure_logo.png" alt="AdventureWorks" width="400"/>
+<img src="https://github.com/oluyinkaawoyemi/Sprocket-Sales-Analysis/blob/main/download-removebg-preview%20(1).png" alt="AdventureWorks" width="200"/>
 
 ## Table of Contents <!-- omit in toc -->
 
