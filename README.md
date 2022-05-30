@@ -1,4 +1,4 @@
-# 💵: Case Study #1 - Sprocket-Sales-Analysis <!-- omit in toc -->
+# 🚴: Case Study #1 - Sprocket-Sales-Analysis <!-- omit in toc -->
 
 <img src="https://github.com/DanielBayo/AdventureWork_SQL_Analysis/blob/main/Adventure_logo.png" alt="AdventureWorks" width="400"/>
 
