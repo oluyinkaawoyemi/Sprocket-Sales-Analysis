@@ -8,6 +8,7 @@
 - [Problem Statement](#problem-statement)
 - [Data Description](#data-description)
 - [Case Study Questions](#case-study-questions)
+- [Recommendations](#Recommendations)
 
 
 ## Introduction
@@ -24,7 +25,7 @@ It became pertinent to decipher which product was selling more and to who and wh
 
 The data had in it three set of sheets namely; Transactions sheet (showing details of each transaction), Customer demographics (showing customer's job desription, if they were deceased or not and segmentation), and Customer Address (Showing where these customers lived) 
 
-## Case Study Questions
+## CASE STUDY QUESTIONS
 
 ### 1. What is the Total Profit made?
 
@@ -84,3 +85,7 @@ This chart tells the marketing team which industry to focus their marketing stra
 
 <img src="https://github.com/oluyinkaawoyemi/Sprocket-Sales-Analysis/blob/main/Bottom%2010%20Customers.png" width="400"/>
 
+
+## RECOMMENDATTIONS
+
+The business marketing team has been armed with factual data that has been analysed to make strategic business decisions and have answered problem questions asked earlier such and where profit was highest, who buys more and where they worked. By knowing what industry more profit came from, it serves as a pointer in what direction the marketing team needs to intesify advertising to reach more people.
