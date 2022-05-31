@@ -31,21 +31,31 @@ The data had in it three set of sheets namely; Transactions sheet (showing detai
 
 <img src="https://github.com/oluyinkaawoyemi/Sprocket-Sales-Analysis/blob/main/Total%20Profit.png" alt="AdventureWorks" width="400"/>
 
+The total profit made was $10,643,336
+
 ### 2. What is the Total Revenue?
 
 <img src="https://github.com/oluyinkaawoyemi/Sprocket-Sales-Analysis/blob/main/Total%20Revenue.png" alt="AdventureWorks" width="400"/>
+
+The total revenue made was $21,384,314
 
 ### 3. What is the Cost of Goods Sold?
 
 <img src="https://github.com/oluyinkaawoyemi/Sprocket-Sales-Analysis/blob/main/Cost%20of%20Goods%20Sold.png" alt="AdventureWorks" width="400"/>
 
+The cost of goods sold was $10,740,978
+
 ### 4. What is the Quantity of Goods Ordered?
 
 <img src="https://github.com/oluyinkaawoyemi/Sprocket-Sales-Analysis/blob/main/Quantity%20Ordered.png" alt="AdventureWorks" width="400"/>
 
+The quantity of goods ordered was 193,056,217
+
 ### 5. What is the Percentage Gross margin?
 
 <img src="https://github.com/oluyinkaawoyemi/Sprocket-Sales-Analysis/blob/main/Gross%20Margin.png" alt="AdventureWorks" width="400"/>
+
+The percentage gross margin is 49.77%
 
 ### 6. What is the Profit trend by State?
 
